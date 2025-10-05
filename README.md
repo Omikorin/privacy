@@ -77,8 +77,9 @@ Awesome FOSS and privacy-friendly tools that I recommend
 | Image Viewer     | Windows Photos       | nomacs / ImageGlass                  |
 | Media Player     | Windows Media Player | VLC / MPV / Kodi                     |
 | Music Player     | iTunes / Spotify     | Harmonoid / Strawberry / foobar2000  |
-| Note Taking      | OneNote              | Joplin / Standard Notes              |
+| Note Taking      | OneNote / Obsidian             | Joplin / Standard Notes / Logseq              |
 | Office Suite     | Microsoft Office     | LibreOffice                          |
+| Office Suite (Online)     | Google Docs     | Etherpad / Collabora                          |
 | Password Manager | Browser / LastPass   | Bitwarden / KeePassXC                |
 | PDF Editor       | Adobe Acrobat        | PDFtk / LibreOffice Draw             |
 | Remote Desktop   | TeamViewer           | RustDesk / Parsec (gaming)           |
